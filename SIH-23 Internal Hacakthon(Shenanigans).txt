@@ -1,0 +1,14 @@
+Team: Shenanigans
+PSID: SIH1509
+Team lead:
+Vishwas Kisaniya (22106027)
+ Team members:
+Anubhav Pandey (22106009)
+Yashaswi Khurana (22106023)
+Manav rai (22106028)
+Parth (22106026)
+Nishtha (22106037) 
+
+Github link:
+
+https://github.com/yashaswi-khurana/SIH.git

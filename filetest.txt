@@ -1,0 +1,33 @@
+GUIDELINES FOR CONDUCTING INTERNAL HACKATHON SMART INDIA HACKATHON-2023
+Dear College Representatives,
+We appreciate your commitment towards participating in SIH-2023.Further to this, for organizing an Internal Hackathon (this is mandatory) in your college for SIH-2023 there is a set of guidelines and a reporting format which has to be followed. To ensure a smooth and successful event, please follow the guidelines outlined below. These guidelines are designed to help you prepare and report on the internal hackathon effectively.
+
+1.Guidelines:
+All team members must be from the same college; inter-college teams are not allowed.
+Encourage students from different branches within your college or institute to form diverse teams.
+Each team should consist of six members, including at least one female team member.
+The choice of Problem statements could be from any theme or from the problem statement which is already published on the official SIH-2023 website
+The judges/evaluators can be from academia or from the industry
+You should encourage maximum team participation for a healthy competition
+Please note that you have the flexibility to organize the internal hackathon in either online or offline mode
+Maintain integrity and fairness throughout the event.
+
+1. Report Submission:
+College Single Point of Contact (SPOC) is responsible for uploading the Internal Hackathon report on the designated dashboard portal.
+The report should be a single PDF document containing comprehensive details of the internal hackathon organized by your college. The maximum length of the report should not exceed 15 pages.
+2. Mandatory Report Contents: Your report must contain the following sections:
+About the Event: Provide an overview of the internal hackathon, including its purpose and objectives.
+About the Problem Statement: Kindly mention the problem statements selected for the internal hackathon
+Event Photos: Include photographs capturing key moments and activities during the event.
+Participating Teams: Showcase pictures of all participating teams.
+Judging Process: Describe the process used for judging the hackathon projects.
+Jury Panel: Include photos and relevant details of the jury panel members.
+Nominated Top Teams: Highlight the top-performing teams.
+Judges Information: Include photos and details of the judges involved in the hackathon.
+Participation Statistics: Provide information on the total number of teams and students that participated along with relevant photos. Also mention the gender wise participation in the event
+News Articles: If available, include any news articles or press releases related to the event.
+Social Media Links: Share links to the event's promotion on social media platforms like Twitter, Facebook, and LinkedIn.
+Hashtags: Ensure the use of hashtags such as #sih2023 and #smartindiahackathon2023.
+Tag Official Page: Tag the official page of the Innovation Cell, Ministry of Education, on Twitter.
+
+Your dedication to promoting innovation and technical excellence among students is commendable, and we look forward to your active participation in SMART INDIA HACKATHON-2023.
